@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568788631499",
+    "firebase_url": "https://chillz-ea7d6.firebaseio.com",
+    "project_id": "chillz-ea7d6",
+    "storage_bucket": "chillz-ea7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568788631499:android:9ddd6789c0422aeab4004e",
+        "android_client_info": {
+          "package_name": "com.tech.temwa.chillz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568788631499-oin6bhsvqeo33i7o4tmsco7sd86ocv11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.temwa.chillz",
+            "certificate_hash": "3d87b02f0af404cfb9cd1c4a175d15dfe4ae6c41"
+          }
+        },
+        {
+          "client_id": "568788631499-9c7irv2v36cgloo37e00hqr9us4ig6n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1i83ILC_LFBzxGXDfwCkqHG-_S89nvSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568788631499-9c7irv2v36cgloo37e00hqr9us4ig6n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
